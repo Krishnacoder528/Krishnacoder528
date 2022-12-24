@@ -48,7 +48,7 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 ---
 
 ### Languages and Tools:
-
+<div> 
 <img align="left" alt="C" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 <img align="left" alt="CPP" width="35px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />
 <img align="left" alt="Java" width="25px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />
@@ -61,7 +61,8 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
   <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   <img align="left" alt="Git" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/git.svg" /> 
-
+  </div>
+  
 ---
 
 ### Connect with me:
