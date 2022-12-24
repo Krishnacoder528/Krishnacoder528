@@ -58,6 +58,7 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 <img align="left" alt="MySQL" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/mysql-6.svg" />
 </div>
 <br>
+<br>
 
 ---
 
@@ -73,6 +74,7 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   
   </div>
   <br>
+  <br>
   
 ---
 
@@ -84,6 +86,18 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
       <img height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" alt="LinkedIn Badge"/>
   </a>
 
+  <a href="https://www.linkedin.com/in/krishna-t-64bb3a204">
+      <img align="left" height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" alt="instagram Badge"/>
+  </a>
+  
+   <a href="https://stackoverflow.com/users/20852371/krishna-t">
+      <img align="left" height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" alt="Stackoverflow Badge"/>
+  </a>
+  
+   <a href="https://www.quora.com/profile/KRISHNA-T-203">
+      <img align="left" height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" alt="Quora Badge"/>
+  </a>
+  
 </div>
 
 ---
