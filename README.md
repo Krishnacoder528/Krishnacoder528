@@ -71,11 +71,9 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 <div>
 
-<img height="32" width="32" alt="Linked In" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" />https://www.linkedin.com/in/krishna-t-64bb3a204 &nbsp; &nbsp;
-[<img height="32" width="32" alt="Instagram" src="https://github.com/PremApk/PremApk/blob/main/imgs/instagram.svg" />][insta] &nbsp; &nbsp;
-[<img height="32" width="32" alt="" src="https://github.com/PremApk/PremApk/blob/main/imgs/quora.svg"/>][quora] &nbsp; &nbsp;
-[<img height="32" width="32" alt="Leetcode" src="https://github.com/PremApk/PremApk/blob/main/imgs/hackerrank.svg"/>][leetcode] &nbsp; &nbsp;
-[<img height="32" width="32" alt="Codechef" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Logo.ico"/>][codechef] &nbsp; &nbsp;
+ <a href="https://www.linkedin.com/in/krishna-t-64bb3a204">
+      <img src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" alt="LinkedIn Badge"/>
+  </a>
 
 </div>
 
