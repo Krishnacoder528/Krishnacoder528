@@ -18,7 +18,5 @@
     I am Krishna
   </h1>
 </div>
- (https://github.com/PremApk) <img src="https://github.com/PremApk/PremApk/blob/main/imgs/Hi.gif" width="25px">
-<br><br>
-![](https://github.com/PremApk/PremApk/blob/main/header_.png)
+ <img src="https://github.com/PremApk/PremApk/blob/main/imgs/Hi.gif" width="25px">
 <br><br>
