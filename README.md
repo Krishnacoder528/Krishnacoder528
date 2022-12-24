@@ -48,7 +48,6 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 ---
 
 ### Languages and Tools:
-<br>
 <div>
 <img align="left" alt="C" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 <img align="left" alt="CPP" width="35px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />
@@ -66,5 +65,16 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   </div>
 
 ---
+
+### Connect with me:
+
+[<img height="32" width="32" alt="Linked In" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg"/>][linkedin] &nbsp; &nbsp;
+[<img height="32" width="32" alt="Instagram" src="https://github.com/PremApk/PremApk/blob/main/imgs/instagram.svg"/>][insta] &nbsp; &nbsp;
+[<img height="32" width="32" alt="" src="https://github.com/PremApk/PremApk/blob/main/imgs/quora.svg"/>][quora] &nbsp; &nbsp;
+[<img height="32" width="32" alt="Leetcode" src="https://github.com/PremApk/PremApk/blob/main/imgs/hackerrank.svg"/>][leetcode] &nbsp; &nbsp;
+[<img height="32" width="32" alt="Codechef" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Logo.ico"/>][codechef] &nbsp; &nbsp;
+[<img height="32" width="32" alt="i++" src="https://play-lh.googleusercontent.com/avch9Hr55jBqNa4_BgMS2HMoPV1BiPbx9c2Fj3tRzuigRMn2MrUc8xKe24vRNMmKdw=s180-rw"/>][i++] &nbsp; &nbsp;
+
+<br>
 
  
