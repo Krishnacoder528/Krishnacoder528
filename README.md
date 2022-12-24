@@ -24,8 +24,8 @@
   </div>
   
 ---
-  ### 👨‍💻: About Me :
-I am a  Developer, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Weeb and Binge-Series Watcher!! from India.
+  ### 👨‍💻 About Me :
+I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, Weeb and Binge-Series Watcher!! from India.
 - :telescope: Currently Learning and has no prior experience
 
 - :😄: Looking forward to collaborate with others
