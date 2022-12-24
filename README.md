@@ -49,7 +49,6 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ### Languages and Tools:
 <br>
-<br>
 <div>
 <img align="left" alt="C" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 <img align="left" alt="CPP" width="35px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />
