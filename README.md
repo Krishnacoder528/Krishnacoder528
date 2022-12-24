@@ -105,10 +105,17 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   
 ### :fire: My Stats :
 
-<img align="left" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Krishnacoder528&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="Krishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Krishnacoder528&show_icons=true&hide_border=true&theme=tokyonight" />
 
 <br>
 <br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnacoder528&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
  
  
  
