@@ -22,13 +22,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
   <br>
-  ### I'm a Developer, Weeb and Binge-Series Watcher!!
+ ### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :icecream: Life is like **Ice-Cream**, Enjoy before it **Melts**!!!
-- 😄 Looking forward to collaborate with others
-- 🌱 Currently Learning and has no prior Experience
-- 🥇 Game Development World Championship 2020 -- Finalist
-- :upside_down_face: Skilled **Python** Coder
-- ⚡ Fun Fact: I love to be a **Gamer**. But I play once in a month
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+---
 
  
