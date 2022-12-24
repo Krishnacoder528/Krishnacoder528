@@ -48,7 +48,7 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 ---
 
 ### Languages and Tools:
-<div>
+
 <img align="left" alt="C" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 <img align="left" alt="CPP" width="35px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />
 <img align="left" alt="Java" width="25px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />
@@ -62,7 +62,6 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   <img align="left" alt="Git" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/git.svg" /> 
 
-  </div>
 
 ---
 
@@ -73,7 +72,7 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 [<img height="32" width="32" alt="" src="https://github.com/PremApk/PremApk/blob/main/imgs/quora.svg"/>][quora] &nbsp; &nbsp;
 [<img height="32" width="32" alt="Leetcode" src="https://github.com/PremApk/PremApk/blob/main/imgs/hackerrank.svg"/>][leetcode] &nbsp; &nbsp;
 [<img height="32" width="32" alt="Codechef" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Logo.ico"/>][codechef] &nbsp; &nbsp;
-[<img height="32" width="32" alt="i++" src="https://play-lh.googleusercontent.com/avch9Hr55jBqNa4_BgMS2HMoPV1BiPbx9c2Fj3tRzuigRMn2MrUc8xKe24vRNMmKdw=s180-rw"/>][i++] &nbsp; &nbsp;
+
 
 <br>
 
