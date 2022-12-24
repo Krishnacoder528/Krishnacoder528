@@ -72,7 +72,7 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 <div>
 
  <a href="https://www.linkedin.com/in/krishna-t-64bb3a204">
-      <img src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" alt="LinkedIn Badge"/>
+      <img height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" alt="LinkedIn Badge"/>
   </a>
 
 </div>
