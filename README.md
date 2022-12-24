@@ -45,5 +45,18 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i6kun2dwsyhtfrs3dtexobf5vy&cover_image=true&theme=novatorem)
 <br>
 
+---
+
+### Languages and FrameWorks:
+<img align="left" alt="C" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/spring/c-original-wordmark.svg" />
+<img align="left" alt="CPP" width="35px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />
+<img align="left" alt="Java" width="25px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="MySQL" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/mysql-6.svg" />
+
+
+---
 
  
