@@ -34,7 +34,7 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :zap: In my free time, I solve problems on GeeksforGeeks ,Leetcode and read tech articles.
 
-- :🥇: Skilled  Coder
+- 🥇 Skilled  Coder
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-krishna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-t-64bb3a204)
 
@@ -56,7 +56,7 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 <img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="MySQL" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/mysql-6.svg" />
- <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+ <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="left" alt="Intellij" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/intellij-idea.svg" />
   <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
   <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -67,13 +67,12 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ### Connect with me:
 
-[<img height="32" width="32" alt="Linked In" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg"/>][linkedin] &nbsp; &nbsp;
-[<img height="32" width="32" alt="Instagram" src="https://github.com/PremApk/PremApk/blob/main/imgs/instagram.svg"/>][insta] &nbsp; &nbsp;
+[<img height="32" width="32" alt="Linked In" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" />][linkedin] &nbsp; &nbsp;
+[<img height="32" width="32" alt="Instagram" src="https://github.com/PremApk/PremApk/blob/main/imgs/instagram.svg" />][insta] &nbsp; &nbsp;
 [<img height="32" width="32" alt="" src="https://github.com/PremApk/PremApk/blob/main/imgs/quora.svg"/>][quora] &nbsp; &nbsp;
 [<img height="32" width="32" alt="Leetcode" src="https://github.com/PremApk/PremApk/blob/main/imgs/hackerrank.svg"/>][leetcode] &nbsp; &nbsp;
 [<img height="32" width="32" alt="Codechef" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Logo.ico"/>][codechef] &nbsp; &nbsp;
 
 
-<br>
-
+---
  
