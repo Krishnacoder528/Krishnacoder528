@@ -87,16 +87,16 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
       <img height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/krishna-t-64bb3a204">
-      <img align="left" height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" alt="instagram Badge"/>
+  <a href="https://www.instagram.com/krishna_553_/">
+      <img align="left" height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/instagram.svg" alt="instagram Badge"/>
   </a>
   
    <a href="https://stackoverflow.com/users/20852371/krishna-t">
-      <img align="left" height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" alt="Stackoverflow Badge"/>
+      <img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stackoverflow Badge"/>
   </a>
   
    <a href="https://www.quora.com/profile/KRISHNA-T-203">
-      <img align="left" height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" alt="Quora Badge"/>
+      <img align="left" height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/quora.svg" alt="Quora Badge"/>
   </a>
   
 </div>
