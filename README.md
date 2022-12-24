@@ -23,10 +23,12 @@
   </div>
   
   ---
-  
+  <div>
  👨‍💻 About Me :
   
   <h1>I'm a Developer , Weeb and Binge-Series Watcher!!</h1>
+    
+  </div>
 
 ---
 
