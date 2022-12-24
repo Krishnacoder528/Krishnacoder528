@@ -21,5 +21,14 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
+  <br>
+  ### I'm a Developer, Weeb and Binge-Series Watcher!!
+
+- :icecream: Life is like **Ice-Cream**, Enjoy before it **Melts**!!!
+- 😄 Looking forward to collaborate with others
+- 🌱 Currently Learning and has no prior Experience
+- 🥇 Game Development World Championship 2020 -- Finalist
+- :upside_down_face: Skilled **Python** Coder
+- ⚡ Fun Fact: I love to be a **Gamer**. But I play once in a month
 
  
