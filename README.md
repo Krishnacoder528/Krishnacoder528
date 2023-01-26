@@ -107,7 +107,7 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 <br>
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Krishnacoder528&show_icons=true&hide_border=true&theme=aura)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnacoder528&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
