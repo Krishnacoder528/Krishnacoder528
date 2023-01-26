@@ -107,7 +107,7 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 <br>
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Krishnacoder528&show_icons=true&hide_border=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Krishnacoder528&show_icons=true&hide_border=true&theme=aura)
 
 
 
