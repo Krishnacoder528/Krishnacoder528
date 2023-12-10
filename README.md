@@ -21,7 +21,7 @@
   <br> 
   <div align="center">
 <!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/> -->
-    <img align="center" alt="Scripting" width="700" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+    <img align="center" alt="Scripting" width="700 " height="300" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
   </div>
   
 ---
