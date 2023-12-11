@@ -37,7 +37,7 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - 🥇 Skilled  Coder
 
-- :mailbox:✉️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-krishna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-t-64bb3a204)
+- ✉️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-krishna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-t-64bb3a204)
 
 
 ---
